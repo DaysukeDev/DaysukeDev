@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🌱 Soy un desarrollador de 17 años, estudiante de ingeniería de sistemas. Desarrollador de complementos Spigot 👋
 
 <!--
 **DaysukeDev/DaysukeDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
